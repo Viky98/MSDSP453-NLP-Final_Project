@@ -1,18 +1,18 @@
 # MSDSP453-NLP-Final_Project
 
-                                                                                Enhancing Amazon Review Insights through NLP Analysis
-                                                                                                  FINAL REPORT
+                                                  Enhancing Amazon Review Insights through NLP Analysis
+                                                                 FINAL REPORT
 
-                                                                                          Natural Language Processing
-                                                                                                    DL 453
+                                                          Natural Language Processing
+                                                                   DL 453
 
-                                                                                                Manmeet Kaur 
-                                                                                                Nitesh Yadav 
-                                                                                      Rohit Bharadwaj Balarama Somayajula 
-                                                                                               Vignesh Sridhar
+                                                                Manmeet Kaur 
+                                                                Nitesh Yadav 
+                                                       Rohit Bharadwaj Balarama Somayajula 
+                                                                Vignesh Sridhar
 
-                                                                                                    MSDSP 
-                                                                                            Northwestern University
+                                                                     MSDSP 
+                                                             Northwestern University
 
 ABSTRACT:
 
